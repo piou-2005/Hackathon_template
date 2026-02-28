@@ -1,0 +1,15 @@
+[theme]
+# The main accent color (used for loading bars, primary buttons, etc.)
+primaryColor = "#00FFAA"
+
+# The main background color
+backgroundColor = "#0E1117"
+
+# The background color for the sidebar and metric boxes
+secondaryBackgroundColor = "#161B22"
+
+# The color of the text
+textColor = "#E6EDF3"
+
+# The font family (options: "sans serif", "serif", "monospace")
+font = "monospace"
